@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.top{
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    background-size: 1440px, 1093px;
+    background-size: cover;
+}
+
+header{
+    padding-left: 6rem;
+    padding-top: 2rem;
+    
+}
+
+.tp{
+    display: flex;
+    gap: 3rem;
+    position: absolute;
+    left: 70%;
+    color: white;
+    top: 5.8%;
+    
+}
+
+.tp a{
+    color: white;
+}
+
+.main-section{
+    padding: 5rem;
+}
+
+.sp h1{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 100px;
+    /* line-height: 150.84px;
+    width: 684px;
+    height: 151px; */
+    
+}
+
+
+.bb{
+    display: flex;
+    gap: 7rem;
+    position: absolute;
+    left: 37%;
+
+     
+  
+    
+}
+
+button{
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    font-weight: 600;
+    size: 14px;
+    line-height: 17.6px;
+    border-radius: 50px;
+    border: none;
+    background-color: plum;
+    position: absolute;
+    left: 44%;
+    top: 55%;
+
+}
+
+.con{
+    display: flex;
+    padding-top: 8rem;
+    align-items: center;
+   
+    
+    
+}
+
+.con img {
+    width: 100px;
+}
+
+.none{
+    padding-left: 15rem;
+    background-color: plum;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    padding: 5rem;
+    
+   
+    
+    
+}
+
+
+.tut{
+    display: flex;
+    width: 2rem;
+    padding: 2rem;
+
+}
+
+.mem{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.mmm{
+    display: flex;
+    padding: 5rem;
+}
+
+.lmn{
+    background-color: #071629;
+}
+
+.on{
+    color: white;
+}
+
+.one{
+    display: flex;
+    font-size: 14px;
+    padding: 5rem;
+    gap: 2rem;
+    line-height: 24px;
+}
+
+.two{
+    display: flex;
+    font-size: 14px;
+    padding: 5rem;
+    gap: 2rem;
+    line-height: 24px;
+}
+
+.faq{
+    text-align: center;
+    padding-top: 3rem;
+    font-weight: 300;
+}
+
+.jkl{
+    text-align: center;
+    padding-top: 3rem;
+}
