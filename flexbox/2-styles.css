@@ -179,7 +179,9 @@
   
   /* Grid
       ============================= */
-     
+   .row {
+       display: flex;
+   }
   
   ul.row {
     margin: 0;
@@ -378,7 +380,7 @@
   }
   
   /* Section Latest news =============================== */
-  .section-latest_news .row{
+  .section-latest-news .row{
     flex-direction: row-reverse;
     
     
